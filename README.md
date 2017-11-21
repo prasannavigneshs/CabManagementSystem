@@ -29,5 +29,6 @@ Appropriate credentials are verified
   <li>List Users</li>
   <li>List Drivers</li>
   <li>Add a driver</li>
+  <li>Remove a driver</li>
   <li>Logout</li>
  </ol>
